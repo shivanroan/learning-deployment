@@ -1,0 +1,23 @@
+{
+  "name": "learning-deployment",
+  "version": "1.0.0",
+  "description": "This is Shiva D Roopan's private repos to learn how the stuffs work around in CI/CD integration with Jenkins and Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanroan/learning-deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanroan/learning-deployment/issues"
+  },
+  "homepage": "https://github.com/shivanroan/learning-deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
